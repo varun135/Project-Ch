@@ -1,0 +1,27 @@
+SOURCES:
+
+
+DATASETS:
+
+SEVERE CYCLONES OVER INDIAN OCEAN:
+	https://data.gov.in/resources/frequency-severe-cyclones-maximum-wind-speed-48-knots-and-above-over-bay-bengal-bob
+DEPRESSIONS OVER INDIAN OCEAN: 
+	https://data.gov.in/catalog/number-depressionsdeep-deepressions-formed-over-north-indian-ocean
+INDIAN OCEAN HEAT CONTENT: 
+	http://climexp.climexp-knmi.surf-hosted.nl/normdiff.cgi
+INDIAN OCEAN DIPOLE MODE INDEX: 
+	http://climexp.climexp-knmi.surf-hosted.nl/getindices.cgi?WMO=FRCGCData/dmi_hadisst&STATION=DMI_HadISST&TYPE=i&id=someone@somewhere
+INDIAN OCEAN MEAN TEMPERATURE: 
+	http://climexp.climexp-knmi.surf-hosted.nl/getindices.cgi?WMO=NODCData/temp700_Indian&STATION=Indian_Ocean_mean_temperature&TYPE=i&id=someone@somewhere
+DIPOLE MOMENT INDEX:
+	http://climexp.climexp-knmi.surf-hosted.nl/getindices.cgi?WMO=UKMOData/hadisst1_dmi&STATION=DMI_HadISST1&TYPE=i&id=someone@somewhere
+SOUTHERN ANNUAL MODE INDEX:
+	http://climexp.climexp-knmi.surf-hosted.nl/getindices.cgi?WMO=BASData/bas_sam&STATION=BAS_SAM&TYPE=i&id=idsomeone@somewhere
+PRECIPITATION OVER PENINSULA:
+	http://climexp.climexp-knmi.surf-hosted.nl/getindiaprcp.cgi?id=someone@somewhere&WMO=106&STATION=PENINSULAR_INDIA_RAINFALL&extraargs=
+PRECIPITATION OVER INDIA:
+	http://climexp.climexp-knmi.surf-hosted.nl/getindices.cgi?WMO=IITMData/ALLIN&STATION=All-India_Rainfall&TYPE=p&id=someone@somewhere
+SOUTHERN OSCILLATION INDEX:
+	http://climexp.climexp-knmi.surf-hosted.nl/getindices.cgi?WMO=CRUData/soi&STATION=SOI&TYPE=i&id=someone@somewhere
+EL NINO(4): 
+	http://climexp.climexp-knmi.surf-hosted.nl/getindices.cgi?WMO=NCDCData/ersst_nino4a_rel&STATION=NINO4_rel&TYPE=i&id=someone@somewhere
